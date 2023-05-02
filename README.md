@@ -1,5 +1,5 @@
 # Generate Wave
-Farklı sinüs sinyallerini birleştirerek tekrarsayısı kadar sinüs sinyali oluşturmaya yarar. 
+It helps to create as many sinusoidal signals as the repetition number by combining different sinusoidal signals. 
 
 
 ![](/Readme.png)
